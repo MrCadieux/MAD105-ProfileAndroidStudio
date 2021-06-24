@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile3</string>
+    <string name="txtNameLabel">Jeff</string>
+    <string name="txtProfileButton">View Profile</string>
+    <string name="txtFullProfile">Name: Jeff \n Wife: Jamie \n Date: 7/12/2020 \n Location: Ketchum, ID</string>
+
+</resources>
